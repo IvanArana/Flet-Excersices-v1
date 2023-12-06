@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "name": "ALGO",
+      "email": "ALGO@example.com",
+      "phone_number": "+999999999",
+      "messages":[
+        {
+          "message_id": 1,
+          "message":"FSDFGKANDGJKANS",
+          "time":"1:10 PM",
+          "has_media":false,
+          "media_url":"",
+          "to_id": 1,
+          "is_reply":false,
+          "sender":1
+        }
+      ]
+    },
+    {
+      "user_id": 1,
+      "name": "EL TAXISTA",
+      "email": "taxista@example.com",
+      "phone_number": "+85656933455",
+      "messages":[
+        {
+          "message_id": 1,
+          "message":"Hey cuanto al centro \n peeelaná",
+          "time":"1:10 PM",
+          "has_media":false,
+          "media_url":"",
+          "to_id": 1,
+          "is_reply":false,
+          "sender":1
+        }
+      ]
+    }
+  ]
+}
